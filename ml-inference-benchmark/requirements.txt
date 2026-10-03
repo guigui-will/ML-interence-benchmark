@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision
+onnx
+onnxruntime-gpu
+onnxconverter-common
+numpy
+pandas
+matplotlib
+tabulate
+psutil
+nvidia-ml-py
